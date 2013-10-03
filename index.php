@@ -188,12 +188,14 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2028 Damuth St - Unit 2</strong></h3>
+										<h3><strong>3520 Lyon Ave - Triplex</strong></h3>
 										<ul>
-											<li>2 Bed - 1.5 Bath</li>
-											<li>891 Sq Ft -  0 Lot</li>
-											<li>List: 5/14/13 - Pending: 5/23/13</li>
-											<li>List: $298,888 - SOLD $330,000</li>
+											<li>#1 2 Bed - 1 Bath</li>
+											<li>#2 1 Bed - 1 Bath</li>
+											<li>#3 1 Bed - 1 Bath</li>
+											<li>1,662 Sq Ft -  4,200 Lot</li>
+											<li>List: 8/24/13 - Pending: 8/28/13</li>
+											<li>List: $349,500 - SOLD $359,900</li>
 										</ul>
 									</article>
 								</div>
@@ -201,12 +203,12 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2207 Damuth St - Unit 3</strong></h3>
+										<h3><strong>3549 Custer St</strong></h3>
 										<ul>
-											<li>2 Bed - 1.5 Bath</li>
-											<li>905 Sq Ft - 0 Lot</li>
-											<li>List: 2/6/13 - Pending: 3/24/13</li>
-											<li>List: $289,000 - SOLD $289,000</li>
+											<li>4 Bed - 2 Bath</li>
+											<li>1293 Sq Ft - 3,000 Lot</li>
+											<li>List: 4/29/13 - Pending: 6/28/13</li>
+											<li>List: $308,000 - SOLD $325,000</li>
 										</ul>
 									</article>
 								</div>
@@ -214,12 +216,12 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>3610 Laguna Ave</strong></h3>
+										<h3><strong>3542 Davis St</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>727 Sq Ft - 0 Lot</li>
-											<li>List: 6/26/13 - Pending: 7/2/13</li>
-											<li>List: $269,000 - SOLD $320,000</li>
+											<li>3 Bed - 2 Bath</li>
+											<li>768 Sq Ft - 2,700 Lot</li>
+											<li>List: 6/22/13 - Pending: 8/13/13</li>
+											<li>List: $210,000 - SOLD $230,000</li>
 										</ul>
 									</article>
 								</div>
